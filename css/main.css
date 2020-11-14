@@ -144,7 +144,7 @@ ul li a:hover{
         padding: 4em;
         background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPMQqnI1f_Emd3TveAV2vILHS74WTOgHekvA&usqp=CAU');
         background-repeat:no-repeat;
-        background-size: 100% auto ;
+        background-size: 100% 100% ;
        
     }
     #avatar{
