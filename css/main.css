@@ -71,13 +71,19 @@ ul li a{
     font-size: .8em;
     display: block;
     padding: 1.5em 3em;
-    background-color:rgba(255,255,255,.35);
+    background-color:rgba(255,255,255,.35);                                                         
     color: black;
 }
 main{
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwlbsXDnl-0CktV6u1AjsMnJ0qVAYaSXc2gA&usqp=CAU');
     background-size: 100%;
     padding: 1em 1.4em;
+
+}
+
+div{
+    background: blue;
+
 
 }
 
