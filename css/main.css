@@ -181,7 +181,7 @@ ul li a:hover{
     nav{
         background: none;
     }
-    .cta {
+    div .cta {
         display: inline-block;
         font-size: 1.3em;
         padding: .8em 3em;
@@ -189,7 +189,7 @@ ul li a:hover{
         
 
     }
-    .cta:hover{
+    div .cta:hover{
         background-color: rgb(214, 214, 214);
        
     }
