@@ -101,7 +101,7 @@ p{
     
     display: block;
     color: grey;
-    background: #e5d9e9;
+    background: #e8dfeb;
     text-decoration: none; 
     padding: 8px 50px;
     font-size: 1.2em;
@@ -134,7 +134,7 @@ ul li a:hover{
     }
 
     aside{
-        background: #DFD4EB;
+        background: #e9e2f1;
         grid-template-columns: auto;
         grid-template-rows: 20% auto;
         padding: 0;
