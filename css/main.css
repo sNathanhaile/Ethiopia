@@ -154,7 +154,9 @@ ul li a:hover{
     }
 
     aside{
-        background: #e9e2f1;
+        background: #e0ece4;
+
+        /*background: #e9e2f1;*/
         grid-template-columns: auto;
         grid-template-rows: 20% auto;
         padding: 0;
